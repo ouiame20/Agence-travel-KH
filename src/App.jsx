@@ -1,5 +1,4 @@
-import Markup from "./Markup"
-
+import Markup from "./pages/Markup"
 
 function App() {
   return (
